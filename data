@@ -1,8 +1,1 @@
-{
-  "addresses": [
-    {
-      "address": "http://127.0.0.1",
-      "level": "high"
-    }
-  ]
-}
+127.0.0.1
