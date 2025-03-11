@@ -1,16 +1,8 @@
 {
   "addresses": [
     {
-      "address": "127.0.0.1",
+      "address": "http://127.0.0.1",
       "level": "high"
-    },
-    {
-      "address": "192.168.1.1",
-      "level": "medium"
-    },
-    {
-      "address": "10.0.0.1",
-      "level": "low"
     }
   ]
 }
